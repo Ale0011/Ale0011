@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p> 
 
 <h3 align="center"> 
-Security Researcher interested in Threat Intelligence, Threat Hunting, Malware Research, Reverse Engineer, Exploit Development, Offsec & Python. 
+Hacker Mind Research Passion
 </h3>
 
 <p align="center"> 
