@@ -19,10 +19,6 @@ Here are some ideas to get you started:
     <a href="https://github.com/Ale0011?tab=repositories"><img alt="Stars" src="https://img.shields.io/github/stars/Ale0011"></a>
 </p> 
 
-<p align="center"> 
-    <a href="https://x.com/x3mns_"><img alt="X" src="https://img.shields.io/badge/x3mns_-000000?style=for-the-badge&logo=X&logoColor=white"></a>
-</p> 
-
 <h3 align="center"> 
 Hacker Mind Research Passion
 </h3>
